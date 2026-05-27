@@ -1,9 +1,18 @@
-## Hi there 👋
+# 👋 Hey there, I'm Salome!
 
-<!--
-**SalWambui/SalWambui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Here are some ideas to get you started:
+---
+
+## 💡 About Me
+
+🎓 Mathematics & Computer Science student  
+🤖 Aspiring Data Scientist & Cybersecurity enthusiast  
+📊 I love turning raw data into meaningful insights  
+📚 Currently building my skills in Machine Learning & AI  
+🌍 Based in Kenya 🇰🇪  
+
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
