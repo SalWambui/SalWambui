@@ -46,8 +46,7 @@
 ```text
 Machine Learning → ████████░░ 80%
 Data Science     → ██████░░░░ 60%
-Cybersecurity    → ████░░░░░░ 40%
-SQL              → ██████░░░░ 60%
+GenAI    → ████░░░░░░ 40%
 ```
 ---
 
