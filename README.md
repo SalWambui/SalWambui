@@ -1,6 +1,5 @@
    #  Hey there, I'm Sal!
 
----
 
 ## 💡 About Me
 
