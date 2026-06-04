@@ -53,7 +53,6 @@ GenAI    → ████░░░░░░ 40%
 - Build a deployed AI project (end-to-end)
 ---
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
 - 📧 Email: salonderi2000@gmail.com
 - 💻 GitHub: You are already here!
 ---
