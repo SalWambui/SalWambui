@@ -9,7 +9,8 @@
 🌍 Based in Kenya 🇰🇪  
 
 ---
-## 💻 what I do (apparently)
+## 💻 what I do 
+
 
 - Turning random data into “wow that’s cool”
 - Building and deploying ML projects that solve real world issues
